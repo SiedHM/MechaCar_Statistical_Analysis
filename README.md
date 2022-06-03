@@ -20,17 +20,30 @@ The R2 result shows that about 71% of variation of mpg of MechaCar is attributed
  
 ## Summary Statistics on Suspension Coils
 
+### a total summary 
+
 ![total_summary](https://github.com/SiedHM/MechaCar_Statistical_Analysis/blob/main/images/total_summary.png)
 
+Evaluating the suspension coil’s  of all the manufacturing lots against the design specifications for the MechaCar suspension coils, the result below shows that at an aggregate level, the MechaCar suspension coils meet the design specification as the variance is below 100. 
+
+###  lot_summary
+However, looking at individual lots, the third lot(lot3) does not meet the design specification of variance at are below 100. Lot1 and Lot2 meet the specification design.  
 
 ![lot_summary](https://github.com/SiedHM/MechaCar_Statistical_Analysis/blob/main/images/lot_summary.png)
 
 
+### T-test of  all manufacturing lot 
 ![t-testAggricate](https://github.com/SiedHM/MechaCar_Statistical_Analysis/blob/main/images/t-test%20of%20PSI%20across%20all%20manufacturing%20lots.png)
+
+### T-test of each  each manufacturing lot 
+#### Lot-1
 
 ![lot1ttest](https://github.com/SiedHM/MechaCar_Statistical_Analysis/blob/main/images/t-test%20of%20lot1.png)
 
+#### Lot-2
 ![lot2 t-test](https://github.com/SiedHM/MechaCar_Statistical_Analysis/blob/main/images/t-test%20of%20lot2.png)
+
+#### Lot-3
 
 ![lot3-t-test](https://github.com/SiedHM/MechaCar_Statistical_Analysis/blob/main/images/t-test%20of%20lot3.png)
 
