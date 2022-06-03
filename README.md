@@ -20,7 +20,7 @@ The R2 result shows that about 71% of variation of mpg of MechaCar is attributed
  
 ## Summary Statistics on Suspension Coils
 
-### a total summary 
+### total summary 
 
 ![total_summary](https://github.com/SiedHM/MechaCar_Statistical_Analysis/blob/main/images/total_summary.png)
 
