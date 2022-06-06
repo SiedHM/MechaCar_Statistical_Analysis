@@ -24,7 +24,7 @@ The R2 result shows that about 71% of variation of mpg of MechaCar is attributed
 
 ![total_summary](https://github.com/SiedHM/MechaCar_Statistical_Analysis/blob/main/images/total_summary.png)
 
-Evaluating the suspension coil’s  of all the manufacturing lots against the design specifications for the MechaCar suspension coils, the result below shows that at an aggregate level, the MechaCar suspension coils meet the design specification as the variance is below 100. 
+Evaluating the suspension coil’s  of all the manufacturing lots against the design specifications for the MechaCar suspension coils, the result above  shows that at an aggregate level, the MechaCar suspension coils meet the design specification as the variance is below 100. 
 
 ###  lot_summary
 However, looking at individual lots, the third lot(lot3) does not meet the design specification of variance at are below 100. Lot1 and Lot2 meet the specification design.  
