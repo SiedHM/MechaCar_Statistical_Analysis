@@ -58,6 +58,7 @@ In order to study the competitiveness of MechaCar against competitors, I will ne
 -	highway fuel efficiency 
 -	resale value of the car,
 -	 safety rating
+
 The following are individual  null and alternative hypothesis are set
  ### highway fuel efficiency 
 -	H0: highway fuel efficiency of MechaCar is less than or equal to highway fuel efficiency of an equivalent model from Toyota 
